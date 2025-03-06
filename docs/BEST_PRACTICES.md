@@ -1,1 +1,0 @@
-# BEST_PRACTICES Documentation
